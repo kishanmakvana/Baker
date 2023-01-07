@@ -214,6 +214,7 @@ html {
   font-size: 0.9rem;
   margin-right: 0.8rem;
   letter-spacing: 1px;
+  margin-bottom: 1rem;
 }
 
 .header .banner-inner .outline {
@@ -223,7 +224,7 @@ html {
   padding-left: 2rem;
   padding-right: 2rem;
   transition: var(--maintranstion);
-  margin-left: 1rem;
+  margin-left: 0.2rem;
 }
 
 .header .banner-inner .outline:hover {
